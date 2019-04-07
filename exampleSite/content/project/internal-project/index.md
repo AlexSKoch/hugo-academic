@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Content and relation of stereotypes"
+title = "Dimensions of social perception and cognition"
 
 # Date this page was created.
 date = 2019-04-07T15:33:00
 
 # Project summary to display on homepage.
-summary = "The ABC model of spontaneous stereotypes about societal groups"
+summary = "The ABC model of stereotypes about societal groups"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["Deep Learning"]
+#tags = [""]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
