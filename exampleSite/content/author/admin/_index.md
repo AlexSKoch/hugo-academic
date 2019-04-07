@@ -63,11 +63,6 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:alex.koch@chicagobooth.edu".
 
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.de/citations?user=fI_o3EgAAAAJ&hl=de"
-
 #[[social]]
   #icon = "github"
   #icon_pack = "fab"
@@ -79,6 +74,11 @@ user_groups = ["Researchers", "Visitors"]
    icon = "cv"
    icon_pack = "ai"
    link = "files/cv.pdf"
+   
+ [[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.de/citations?user=fI_o3EgAAAAJ&hl=de"
   
 +++
 
