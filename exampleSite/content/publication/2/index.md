@@ -1,5 +1,5 @@
 +++
-title = "Title"
+title = "Koch, A., & Forgas, J. P. (2012). Feeling good and feeling truth: The interactive effects of mood and processing fluency on truth judgments. Journal of Experimental Social Psychology, 48, 481-485."
 date = 2019-04-07T16:42:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
