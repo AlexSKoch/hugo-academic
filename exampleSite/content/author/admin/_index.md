@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Assistant Professor"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Chicago", url = "" }, { name = "Booth School of Business", url = "" }, { name = "Center for Decision Research", url = "" } ]
+organizations = [ { name = "Assistant Professor", url = "" }, { name = "Center for Decision Research", url = "" }, { name = "Booth School of Business", url = "" }, { name = "University of Chicago", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -53,32 +53,32 @@ user_groups = ["Researchers", "Visitors"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+#[[social]]
+  #icon = "twitter"
+  #icon_pack = "fab"
+  #link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.de/citations?user=fI_o3EgAAAAJ&hl=de"
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+#[[social]]
+  #icon = "github"
+  #icon_pack = "fab"
+  #link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
+  
+[[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "#contact"  # For a direct email link, use "mailto:alex.koch@chicagobooth.edu".
 
 +++
 
