@@ -19,7 +19,7 @@ authors = [""]
 #publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-#publication = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011). Fluency and positivity as possible causes of the truth effect. Consciousness and Cognition, 20, 594-602."
+#publication = "Name of Journal"
 #publication_short = ""
 
 # Abstract.
@@ -67,7 +67,7 @@ url_source = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+#[image]
   # Caption (optional)
   #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
 
