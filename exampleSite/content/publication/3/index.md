@@ -1,5 +1,5 @@
 +++
-title = "Title"
+title = "Koch, A., Forgas, J. P., & Matovic, D. (2013). Can negative mood improve your conversation? Affective influences on conforming to Grice’s communication norms. European Journal of Social Psychology, 43, 326-334."
 date = 2019-04-07T16:42:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
