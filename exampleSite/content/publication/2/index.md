@@ -1,9 +1,9 @@
 +++
-title = "An example journal article"
+title = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011). Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition, 20*, 594-602."
 date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = [""]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["admin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Source Themes, 1*(1)"
+publication = ""
 publication_short = ""
 
 # Abstract.
@@ -32,7 +32,7 @@ summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
