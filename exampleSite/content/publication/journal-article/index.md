@@ -16,7 +16,7 @@ authors = []
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011). Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition*, *20*, 594-602."
