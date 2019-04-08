@@ -1,5 +1,5 @@
 +++
-title = "**{1}** Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011) Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition, 20*, 594-602"
+title = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011) Fluency and positivity as possible causes of the truth effect. Consciousness and Cognition, 20, 594-602."
 date = 2011-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,11 +16,11 @@ authors = []
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["0"]
+publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition*, *20*, 594-602"
-publication_short = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011). Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition*, *20*, 594-602."
+publication = ""
+publication_short = ""
 
 # Abstract.
 abstract = ""
