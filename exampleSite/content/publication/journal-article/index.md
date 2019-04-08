@@ -19,7 +19,7 @@ authors = ["admin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Source Themes, 1*(1)"
+publication = "*Journal of Easy Themes, 1*(1)"
 publication_short = ""
 
 # Abstract.
