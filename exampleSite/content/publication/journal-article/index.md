@@ -16,7 +16,7 @@ authors = []
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = []
+publication_types = [3]
 
 # Publication name and optional abbreviated version.
 publication = ""
