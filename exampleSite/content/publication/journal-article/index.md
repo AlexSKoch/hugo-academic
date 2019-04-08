@@ -1,6 +1,6 @@
 +++
 title = ""
-date = "2011"
+date = "01-01-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
