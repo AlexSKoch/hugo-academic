@@ -3,7 +3,7 @@ title = "An example journal article"
 date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = ["Bob Smith"]
 
 # Publication type.
 # Legend:
@@ -32,11 +32,11 @@ summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Source Themes"]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -52,7 +52,7 @@ projects = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+# slides = "example-slides"
 
 # Links (optional).
 url_pdf = "http://arxiv.org/pdf/1512.04133v1"
@@ -70,13 +70,13 @@ url_source = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+# [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  # focal_point = ""
 +++
 
 {{% alert note %}}
