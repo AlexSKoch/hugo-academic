@@ -2,7 +2,7 @@
 title = "An example journal article"
 date = 2015-09-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+# Authors. Comma separated list, e.g. `["Bob Kitayama", "David Jones"]`.
 authors = ["admin"]
 
 # Publication type.
