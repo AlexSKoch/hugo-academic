@@ -44,7 +44,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = [external-project]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
