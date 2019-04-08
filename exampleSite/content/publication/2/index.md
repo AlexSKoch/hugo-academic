@@ -1,5 +1,5 @@
 +++
-title = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011). Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition, 20*, 594-602."
+title = "paper"
 date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,7 +19,7 @@ authors = [""]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Name of Journal"
 publication_short = ""
 
 # Abstract.
