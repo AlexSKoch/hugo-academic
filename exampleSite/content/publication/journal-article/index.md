@@ -1,5 +1,5 @@
 +++
-title = "An example journal article"
+title = "#1 Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011). Fluency and positivity as possible causes of the truth effect. Consciousness and Cognition, 20, 594-602."
 date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
