@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Fluency and positivity as possible causes of the truth effect."
 date = 2011-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
