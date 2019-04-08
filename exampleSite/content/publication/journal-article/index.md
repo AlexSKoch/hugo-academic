@@ -1,9 +1,9 @@
 +++
-title = "#1"
-date = 001
+title = "Fluency and positivity as possible causes of the truth effect."
+date = 2011-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = [#1 Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C.]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = []
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011). Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition*, *20*, 594-602"
+publication = "*Consciousness and Cognition*, *20*, 594-602"
 publication_short = ""
 
 # Abstract.
