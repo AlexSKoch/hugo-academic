@@ -6,7 +6,7 @@ title = "Dimensions of social perception and cognition"
 date = 2019-04-07T15:33:00
 
 # Project summary to display on homepage.
-summary = "The ABC model of stereotypes about societal groups"
+summary = "The ABC model of spontaneous stereotypes about societal groups"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
