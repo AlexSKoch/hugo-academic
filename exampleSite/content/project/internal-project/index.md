@@ -21,7 +21,7 @@ summary = "The ABC model of spontaneous stereotypes about societal groups"
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides = "example-slides"
+slides = ""
 
 # Links (optional).
 url_pdf = ""
@@ -37,7 +37,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
+  # caption = "Photo by rawpixel on Unsplash"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
