@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "The "common good" phenomenon: Why similarities are positive and differences are negative"
+date = "2017-03-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Alves, H., Koch, A., & Unkelbach, C."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Journal of Experimental Psychology: General*, *146*, 512-528"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "Positive attributes are more prevalent than negative attributes in the social environment. From this basic assumption, 2 implications that have been overlooked thus far: Positive compared with negative attributes are more likely to be shared by individuals, and people's shared attributes (similarities) are more positive than their unshared attributes (differences). Consequently, similarity-based comparisons should lead to more positive evaluations than difference-based comparisons. We formalized our probabilistic reasoning in a model and tested its predictions in a simulation and 8 experiments (N = 1,181). When participants generated traits about 2 target persons, positive compared with negative traits were more likely to be shared by the targets (Experiment 1a) and by other participants' targets (Experiment 1b). Conversely, searching for targets' shared traits resulted in more positive traits than searching for unshared traits (Experiments 2, 4a, and 4b). In addition, positive traits were more accessible than negative traits among shared traits but not among unshared traits (Experiment 3). Finally, shared traits were only more positive when positive traits were indeed prevalent (Experiments 5 and 6). The current framework has a number of implications for comparison processes and provides a new interpretation of well-known evaluative asymmetries such as intergroup bias and self-superiority effects."
 
 # Summary. An optional shortened abstract.
 summary = ""
