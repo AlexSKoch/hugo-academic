@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Good, bad, and their processing"
+title = "The Good, the bad, and their handling"
 
 # Date this page was created.
 date = 2019-04-07T15:27:00
 
 # Project summary to display on homepage.
-summary = "Differences between properties and handling of positive and negative info"
+summary = "Differences between properties of and processing positive and negative info"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 #tags = [""]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "http://example.org"
+#external_link = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -23,7 +23,7 @@ summary = "Differences between properties and handling of positive and negative 
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
 +++
 
 Attractive, approving, and trustworthy faces are perceived as more similar to one another than their negative counterparts. The same goes for liked compared to disliked acquaintances, celebrities, groups and, in fact, all sorts of positive compared to negative words and pictures. That is, “good is more alike than bad” is a robust property of people’s information ecology. 
