@@ -1,6 +1,6 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "(Pre)occupations: A data-driven map of jobs and its consequences for categorization and evaluation"
+date = "2018-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Journal of Experimental Social Psychology*, *77*, 76-88"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "We present a data-driven model of stereotypes about occupations (total N=3,919). Across two classification systems and national contexts (U.S.; Germany), we show remarkable convergence in the stereotype dimensions spontaneously employed to make sense of occupational groups (agency; progressiveness). Further studies show that these dimensions reflect presumed characteristics of job holders and not just describe their occupational role (Study 2), and that proximity of occupations on the emerging stereotype model increased superordinate categorization (Study 3) and contagious transfer of (positive and negative) valence from one occupation to another (Study 4). Together these studies do not only provide important insights into the perception of one of the most ubiquitous social taxonomies but also provide a rich, open access dataset for researchers seeking to employ occupational groups as a tool to better understand stereotypes and intergroup relations in general."
 
 # Summary. An optional shortened abstract.
 summary = ""
