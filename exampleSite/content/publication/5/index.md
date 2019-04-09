@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "Response category width as a psychophysical manifestation of construal level and distance"
+date = "2014-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Krüger, T., Fiedler, K., Koch, A., & Alves, H."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Personality and Social Psychology Bulletin*, *40*, 501-512"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "The present research suggests that people adjust their mental response scales to an object’s distance and construal level. People make use of wider response categories when they judge distant and abstract as compared with close and concrete stimuli. Across five experiments, participants worked on visual and verbal estimation problems (e.g., length or quantity judgments). Answers were provided in interval format, and differences between minimal and maximal estimates served as a measure of response category width. When target objects were framed as spatially distant rather than close (Studies 1 and 3), as unlikely rather than likely (Study 2), and as abstract rather than concrete (Study 4), category widths increased. Similarly, priming a high-level rather than a low-level mindset yielded wider interval estimates (Study 5). The general discussion highlights the usefulness of category width as a basic measure of construal level and as a theoretical link between various branches of construal-level theory."
 
 # Summary. An optional shortened abstract.
 summary = ""
