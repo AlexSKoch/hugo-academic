@@ -3,7 +3,7 @@ title = "(Pre)occupations: A data-driven map of jobs and its consequences for ca
 date = "2018-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Imhoff, R., Koch, A., & Flade, F."]
 
 # Publication type.
 # Legend:
