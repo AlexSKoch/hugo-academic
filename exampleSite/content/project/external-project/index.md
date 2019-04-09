@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "The good, the bad, and their processing"
+title = "Good, bad, and their processing"
 
 # Date this page was created.
 date = 2019-04-07T15:27:00
