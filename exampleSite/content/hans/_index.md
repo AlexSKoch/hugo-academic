@@ -3,7 +3,7 @@
 name = "Hans Alves"
 
 # Username (this should match the folder name)
-authors = ["hans"]
+authors = ["Hans Alves"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -82,5 +82,4 @@ user_groups = ["Co-authors"]
    
 +++
 
-University of Cologne
-https://soccco.uni-koeln.de/hans-alves.html
+University of Cologne and other information about Hans.
