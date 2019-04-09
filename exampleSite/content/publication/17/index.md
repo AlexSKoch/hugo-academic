@@ -19,7 +19,7 @@ authors = ["Unkelbach, C, Koch, A., Silva, R., & Garcia-Marquez, T."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Current Directions in Psychological Science"
+publication = "*Current Directions in Psychological Science*"
 publication_short = ""
 
 # Abstract.
