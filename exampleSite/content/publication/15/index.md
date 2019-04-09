@@ -1,6 +1,6 @@
 +++
 title = "(Pre)occupations: A data-driven map of jobs and its consequences for categorization and evaluation"
-date = "2018-01-01T00:00:00"
+date = "2018-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Imhoff, R., Koch, A., & Flade, F."]
