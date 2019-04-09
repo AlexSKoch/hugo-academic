@@ -6,7 +6,7 @@ title = "The good, the bad, and their processing"
 date = 2019-04-07T15:27:00
 
 # Project summary to display on homepage.
-summary = "Differences between properties and handling positive and negative info"
+summary = "Differences between properties and handling of positive and negative info"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
