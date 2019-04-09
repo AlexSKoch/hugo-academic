@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "Feeling good and feeling truth: The interactive effects of mood and processing fluency on truth judgments"
+date = "2012-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Koch, A., & Forgas, J. P."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Journal of Experimental Social Psychology*, *48*, 481-485"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "Can mood states influence the perceived truth of ambiguous or novel information? This study predicted and found that mood can significantly influence people’s reliance on processing fluency when making truth judgments. Fluent information was more likely to be judged as true (the truth effect), and consistent with Bless and Fiedler's (2006) assimilative vs. accommodative processing model, negative mood eliminated, and positive mood maintained people's reliance on processing fluency as an indication of truth. Post hoc analyses confirmed the predicted mood-induced differences in processing style, as judges in a negative mood adopted more accommodative processing and paid greater attention to external stimulus information. The relevance of these results to contemporary affect-cognition theories is discussed, and the real-life implications of mood effects on truth judgments in applied areas are considered."
 
 # Summary. An optional shortened abstract.
 summary = ""
