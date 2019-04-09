@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "Truth by repetition - explanations and implications"
+date = "2019-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Unkelbach, C, Koch, A., Silva, R., & Garcia-Marquez, T."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Current Directions in Psychological Science"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "People believe repeated information more than novel information; they show a repetition-induced truth effect. In a world of “alternative facts,” “fake news,” and strategic information management, understanding this effect is highly important. We first review explanations of the effect based on frequency, recognition, familiarity, and coherent references. On the basis of the latter explanation, we discuss the relations of these explanations. We then discuss implications of truth by repetition for the maintenance of false beliefs and ways to change potentially harmful false beliefs (e.g., “Vaccination causes autism”), illustrating that the truth-by-repetition phenomenon not only is of theoretical interest but also has immediate practical relevance."
 
 # Summary. An optional shortened abstract.
 summary = ""
