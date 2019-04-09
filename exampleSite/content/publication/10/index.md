@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "Why good is more alike than bad: Processing implications"
+date = "2017-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Alves, H., Koch, A., & Unkelbach, C."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Trends in Cognitive Sciences*, *21*, 72-82"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "Humans process positive information and negative information differently. These valence asymmetries in processing are often summarized under the observation that 'bad is stronger than good', meaning that negative information has stronger psychological impact (e.g., in feedback, learning, or social interactions). This stronger impact is usually attributed to people's affective or motivational reactions to evaluative information. We present an alternative interpretation of valence asymmetries based on the observation that positive information is more similar than negative information. We explain this higher similarity based on the non-extremity of positive attributes, discuss how it accounts for observable valence asymmetries in cognitive processing, and show how it predicts hitherto undiscovered phenomena."
 
 # Summary. An optional shortened abstract.
 summary = ""
