@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "The differential similarity of positive and negative information - an affect-induced processing outcome?"
+date = "2019-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Alves, H., Koch, A., & Unkelbach, C."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Cognition & Emotion"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "People judge positive information to be more alike than negative information. This good-bad asymmetry in similarity was argued to constitute a true property of the information ecology (Alves, H., Koch, A., & Unkelbach, C. (2017). Why good is more alike than bad: Processing implications. Trends in Cognitive Sciences, 21, 69–79). Alternatively, the asymmetry may constitute a processing outcome itself, namely an influence of phasic affect on information processing. Because no research has yet tested whether phasic affect influences perceived similarity among stimuli, we conducted 5 Experiments that also tested whether phasic affect can account for the higher judged similarity among positive compared to negative stimuli. In three experiments, we affectively charged pictures of different Pokemon by pairing them with monetary gains and losses (Exp. 1a, 1b) as well as positive and negative trait words (Exp. 2); yet, the evaluative charge did not differentially influence perceived similarity among the Pokemon. Experiment 3 replicated the basic similarity asymmetry among positive and negative words, and found that it was unaffected by externally induced phasic affect. Experiment 4 showed that phasic affect had no influence on perceived similarity of non-evaluative words either. We conclude that albeit a weak influence of phasic affect on perceived similarity of stimuli cannot be ruled out entirely, it can most likely not account for the typically medium to large sized asymmetry in similarity among positive and negative stimuli."
 
 # Summary. An optional shortened abstract.
 summary = ""
