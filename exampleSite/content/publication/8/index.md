@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "The ABC of stereotypes about groups: Agency / socio-economic success, conservative-progressive beliefs, and communion"
+date = "2016-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Koch, A., & Imhoff, R., Dotsch, R., Alves, H., & Unkelbach, C."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Journal of Personality and Social Psychology*, *110*, 675-709"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "Previous research argued that stereotypes differ primarily on the 2 dimensions of warmth/communion and competence/agency. We identify an empirical gap in support for this notion. The theoretical model constrains stereotypes a priori to these 2 dimensions; without this constraint, participants might spontaneously employ other relevant dimensions. We fill this gap by complementing the existing theory-driven approaches with a data-driven approach that allows an estimation of the spontaneously employed dimensions of stereotyping. Seven studies (total N = 4,451) show that people organize social groups primarily based on their agency/socioeconomic success (A), and as a second dimension, based on their conservative-progressive beliefs (B). Communion (C) is not found as a dimension by its own, but rather as an emergent quality in the two-dimensional space of A and B, resulting in a 2D ABC model of stereotype content about social groups."
 
 # Summary. An optional shortened abstract.
 summary = ""
