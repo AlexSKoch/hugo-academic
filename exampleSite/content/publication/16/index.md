@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "Studying the cognitive map of the U.S. states: Ideology and prosperity stereotypes predict interstate prejudice"
+date = "2018-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Koch, A., Kervyn, N., Kervyn, A. & Imhoff, R."]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Social Psychological and Personality Science*, *9*, 530-538"
 publication_short = ""
 
 # Abstract.
