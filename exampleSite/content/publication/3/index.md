@@ -1,6 +1,6 @@
 +++
 title = "Can negative mood improve your conversation? Affective influences on conforming to Grice’s communication norms"
-date = "2011-01-01T00:00:00"
+date = "2013-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Koch, A., Forgas, J. P., & Matovic, D."]
