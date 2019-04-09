@@ -1,5 +1,5 @@
 +++
-title = "The political domain appears simpler to the politically extreme than to political moderates."
+title = "The political domain appears simpler to the politically extreme than to political moderates"
 date = "2017-04-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
