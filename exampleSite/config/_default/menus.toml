@@ -25,7 +25,7 @@
   
  [[main]]
   name = "Photos"
-  url = "#publications"
+  url = "https://alexkoch.wordpress.com/"
   weight = 50
 
 #[[main]]
