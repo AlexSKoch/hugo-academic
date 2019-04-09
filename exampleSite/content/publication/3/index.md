@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
+title = "Can negative mood improve your conversation? Affective influences on conforming to Grice’s communication norms"
 date = "2011-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Koch, A., Forgas, J. P., & Matovic, D."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*European Journal of Social Psychology*, *43*, 326-334"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "Can temporary mood influence people's communication strategies? According to Grice's cooperative principle, conversational utterances should ideally conform to the maxims of quantity, relevance, quality, and manner. Three experiments predicted and found that participants in a negative mood complied significantly better with Grice's maxims than did participants in a positive mood when using natural language to describe a previously observed social event. Experiments 2 and 3 further confirmed that mood influenced communication strategies, and not merely the encoding (Exp. 2) and retrieval (Exp. 3) of the relevant information. These findings are consistent with affect–cognition theories predicting that positive affect promotes a more internally focused and assimilative thinking and communication style, and negative mood promotes more externally focused and accommodative thinking, resulting in the closer observance of communication norms. The relevance of these findings for recent affect/cognition theories is considered, and the practical implications of the results for everyday conversational strategies are discussed."
 
 # Summary. An optional shortened abstract.
 summary = ""
