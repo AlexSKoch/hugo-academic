@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "My friends are all alike – On the relation between liking, knowledge and perceived similarity"
+date = "2016-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Alves, H., Koch, A., Krüger, T., & Unkelbach, C."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Journal of Experimental Social Psychology*, *62*, 103-117"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "Past research showed that people accumulate more knowledge about other people and objects they like compared to those they dislike. More knowledge is commonly assumed to lead to more differentiated mental representations; therefore, people should perceive others they like as less similar to one another than others they dislike. We predict the opposite outcome based on the density hypothesis (Unkelbach, Fiedler, Bayer, Stegmüller, & Danner, 2008); accordingly, positive impressions are less diverse than negative impressions as there are only a few ways to be liked but many ways to be disliked. Therefore, people should perceive liked others as more similar to one another than disliked others even though they have more knowledge about liked others. Seven experiments confirm this counterintuitive prediction and show a strong association between liking and perceived similarity in person perception. We discuss the implications of these results for different aspects of person perception."
 
 # Summary. An optional shortened abstract.
 summary = ""
