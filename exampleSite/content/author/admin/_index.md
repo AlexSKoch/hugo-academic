@@ -75,10 +75,10 @@ user_groups = ["Researchers", "Visitors"]
    #icon_pack = "ai"
    #link = "files/cv.pdf"
    
- #[[social]]
-  #icon = "google-scholar"
-  #icon_pack = "ai"
-  #link = "https://scholar.google.de/citations?user=fI_o3EgAAAAJ&hl=de"
+ [[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.de/citations?user=fI_o3EgAAAAJ&hl=de"
   
 +++
 
