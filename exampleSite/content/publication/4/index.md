@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "Can negative mood improve language understanding? Affective influences on the ability to detect ambiguous communication"
+date = "2014-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Matovic, D., Koch, A., & Forgas, J. P."]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication = "*Consciousness and Cognition*, *20*, 594-602"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "Can negative mood improve language understanding? Two experiments explored mood effects on people's ability to correctly identify sentences that lack clear meaning in the absence of further contextual information (ambiguous anaphora). Based on recent affect – cognition theories, we predicted and found that negative affect, induced by film clips, improved people's ability to detect linguistic ambiguity. An analysis of response latencies (Studies 1 & 2) and recall (Study 2) confirmed that negative mood produced longer and more attentive processing, and a mediational analysis suggested that processing latencies mediated mood effects on detecting linguistic ambiguity. These results are consistent with negative affect selectively promoting a more concrete, vigilant and externally focused accommodative information processing style, involving more detailed attention to the communicative content of a message. The theoretical relevance of these results for recent affect-cognition theories is considered, and the practical implications of the findings for everyday verbal communication and interpersonal behavior are discussed."
 
 # Summary. An optional shortened abstract.
 summary = ""
