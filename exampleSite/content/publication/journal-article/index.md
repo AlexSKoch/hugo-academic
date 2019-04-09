@@ -19,7 +19,7 @@ authors = []
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. (2011). Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition*, *20*, 594-602"
+publication = "Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C. Fluency and positivity as possible causes of the truth effect. *Consciousness and Cognition*, *20*, 594-602"
 publication_short = ""
 
 # Abstract.
