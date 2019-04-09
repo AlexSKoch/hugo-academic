@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "How orthogonal are the Big Two of social perception? On the curvilinear relationship between agency and communion"
+date = "2017-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Imhoff, R., Koch, A."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Perspectives on Psychological Science*, *12*, 122-137"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "Humans make sense of their social environment by forming impressions of others that allow predicting others’ actions. In this process of social perception, two types of information carry pivotal importance: other entities’ communion (i.e., warmth and trustworthiness) and agency (i.e., status and power). Although commonly thought of as orthogonal dimensions, we propose that these Big Two of social perception are curvilinearly related. Specifically, as we delineate from four different theoretical explanations, impressions of communion should peak at average agency, while entities too high or too low on agency should be perceived as low on communion. We show this pattern for social groups across one novel and five previously published data sets, including a meta-analysis of the most comprehensive data collection in the group perception literature, consisting of 36 samples from more than 20 countries. Addressing the generalizability of this curvilinear relation, we then report recent and unpublished experiments establishing the effect for the perception of individuals and animals. On the basis of the proposed curvilinear relation, we revisit the primacy of processing communion (rather than agency) information. Finally, we discuss the possibility of a more general curvilinear relation between communion and dimensions other than agency"
 
 # Summary. An optional shortened abstract.
 summary = ""
