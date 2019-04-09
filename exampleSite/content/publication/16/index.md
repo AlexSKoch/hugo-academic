@@ -1,6 +1,6 @@
 +++
 title = "Studying the cognitive map of the U.S. states: Ideology and prosperity stereotypes predict interstate prejudice"
-date = "2018-02-01T00:00:00"
+date = "2018-03-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Koch, A., Kervyn, N., Kervyn, A. & Imhoff, R."]
