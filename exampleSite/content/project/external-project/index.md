@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "The good, the bad, and their workings"
+title = "The good, the bad, and their processing"
 
 # Date this page was created.
 date = 2019-04-07T15:27:00
 
 # Project summary to display on homepage.
-summary = "Differences between processing positive and negative information"
+summary = "Differences between properties and handling positive and negative info"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
