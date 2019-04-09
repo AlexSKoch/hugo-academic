@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
+title = "A cognitive-ecological explanation of intergroup biases"
 date = "2011-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Alves, H., Koch, A., & Unkelbach, C."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Psychological Science*, *29*, 1126-1133"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "People often hold negative attitudes toward out-groups and minority groups. We argue that such intergroup biases may result from an interaction of basic cognitive processes and the structure of the information ecology. This cognitive-ecological model assumes that groups such as minorities and out-groups are often novel to a perceiver. At the level of cognition, novel groups are primarily associated with their unique attributes, that is, attributes that differentiate them from other groups. In the information ecology, however, unique attributes are likely to be negative. Thus, novel groups, and by proxy minorities and out-groups, tend to be associated with negative attributes, leading to an evaluative disadvantage. We demonstrated this disadvantage in three experiments in which participants successively formed impressions about two fictional groups associated with the same number of positive and negative attributes. Participants preferred the first group over the novel group as long as the groups’ unique attributes were negative."
 
 # Summary. An optional shortened abstract.
 summary = ""
