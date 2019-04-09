@@ -19,7 +19,7 @@ authors = ["Alves, H., Koch, A., & Unkelbach, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Cognition & Emotion"
+publication = "*Cognition & Emotion*"
 publication_short = ""
 
 # Abstract.
