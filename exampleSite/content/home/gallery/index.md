@@ -10,4 +10,3 @@ subtitle = ""
 +++
 
 {{< gallery >}}
-{{< gallery2 >}}
