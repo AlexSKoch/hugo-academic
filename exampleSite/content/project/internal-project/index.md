@@ -41,7 +41,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
 +++
 
 What are the dimensions that people spontaneously use to map the similarities and differences between society-representative categories like rich people, immigrants, parents, the military, alcoholics etc.? My research points to agency / socioeconomic success (A, related to competence), conservative-progressive beliefs (B), and trustworthiness / communion (C, related to warmth), summarized as the ABC model of stereotypes about groups. I aim to specify the purpose of beliefs stereotypes, not least because this dimension does not appear in previous models of social perception and cognition. At the same time, I strive to identify moderators of focusing on groups’ stereotypic agency versus beliefs versus communion, and I investigate whether the ABC model also applies to perceiving individuals, brands etc. 
