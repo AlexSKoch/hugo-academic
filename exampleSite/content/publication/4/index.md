@@ -19,7 +19,7 @@ authors = ["Matovic, D., Koch, A., & Forgas, J. P."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Journal of Experimental Social Psychology*, *52*, 44-49"
 publication_short = ""
 
 # Abstract.
