@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "A general valence asymmetry in similarity: Good is more alike than bad"
+date = "2016-03-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Koch, A., Alves, H., Krüger, T., & Unkelbach, C."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Journal of Experimental Psychology: Learning, Memory, and Cognition*, *42*, 1171-1192"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "The density hypothesis (Unkelbach, Fiedler, Bayer, Stegmüller, & Danner, 2008) claims a general higher similarity of positive information to other positive information compared with the similarity of negative information to other negative information. This similarity asymmetry might explain valence asymmetries on all levels of cognitive processing. The available empirical evidence for this general valence asymmetry in similarity suffers from a lack of direct tests, low representativeness, and possible confounding variables (e.g., differential valence intensity, frequency, familiarity, or concreteness of positive and negative stimuli). To address these problems, Study 1 first validated the spatial arrangement method (SpAM) as a similarity measure. Using SpAM, Studies 2–6 found the proposed valence asymmetry in large, representative samples of self- and other-generated words (Studies 2a/2b), for words of consensual and idiosyncratic valence (Study 3), for words from 1 and many independent information sources (Study 4), for real-life experiences (Study 5), and for large data sets of verbal (i.e., ∼14,000 words reported by Warriner, Kuperman, & Brysbaert, 2013) and visual information (i.e., ∼1,000 pictures reported in the IAPS; Lang, Bradley, & Cuthbert, 2005; Study 6). Together, these data support a general valence asymmetry in similarity, namely that good is more alike than bad."
 
 # Summary. An optional shortened abstract.
 summary = ""
