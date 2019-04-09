@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "A density explanation for valence asymmetries in recognition memory"
+date = "2015-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Alves. H, Unkelbach, C., Burghardt, J., Koch, A. Krüger, T. & Becker, V."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Memory & Cognition*, *43*, 896-909"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "The density hypothesis states that positive information is more similar than negative information, resulting in higher density of positive information in mental representations. The present research applies the density hypothesis to recognition memory to explain apparent valence asymmetries in recognition memory, namely, a recognition advantage for negative information. Previous research explained this negativity advantage on the basis of valence-induced affect. We predicted that positive information’s higher density impairs recognition performance. Two old–new word recognition experiments tested whether differential density between positive and negative stimuli creates a negativity advantage in recognition memory, over and above valence-induced affect. In Experiment 1, participants better discriminated negative word stimuli (i.e., less false alarms) and showed a response bias towards positive words. Regression analyses showed the asymmetry to be function of density and not of valence. Experiment 2 varied stimulus density orthogonal to valence. Again, discriminability and response bias were a function of density and not of valence. We conclude that the higher density of positive information causes an apparent valence asymmetry in recognition memory."
 
 # Summary. An optional shortened abstract.
 summary = ""
