@@ -1,9 +1,9 @@
 +++
-title = "Fluency and positivity as possible causes of the truth effect"
-date = "2011-01-01T00:00:00"
+title = "The political domain appears simpler to the politically extreme than to political moderates."
+date = "2017-04-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
+authors = ["Lammers, J., Koch, A., Conway, P., & Brandt, M. J."]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Unkelbach, C., Bayer, M., Alves, H., Koch, A., & Stahl, C."]
 publication_types = []
 
 # Publication name and optional abbreviated version.
-publication = "*Consciousness and Cognition*, *20*, 594-602"
+publication = "*Social Psychological and Personality Science*, *8*, 612-622"
 publication_short = ""
 
 # Abstract.
-abstract = "Statements' rated truth increases when people encounter them repeatedly. Processing fluency is a central variable to explain this truth effect. However, people experience processing fluency positively, and these positive experiences might cause the truth effect. Three studies investigated positivity and fluency influences on the truth effect. Study 1 found correlations between elicited positive feelings and rated truth. Study 2 replicated the repetition-based truth effect, but positivity did not influence the effect. Study 3 conveyed positive and negative correlations between positivity and truth in a learning phase. We again replicated the truth effect, but positivity only influenced judgments for easy statements in the learning phase. Thus, across three studies, we found positivity effects on rated truth, but not on the repetition-based truth effect: We conclude that positivity does not explain the standard truth effect, but the role of positive experiences for truth judgments deserves further investigation."
+abstract = "How does political preference affect categorization in the political domain? Eight studies demonstrate that people on both ends of the political spectrum—strong Republicans and strong Democrats—form simpler and more clustered categories of political stimuli than do moderates and neutrals. This pattern was obtained regardless of whether stimuli were politicians (Study 1), social groups (Study 2), or newspapers (Study 3). Furthermore, both strong Republicans and strong Democrats were more likely to make inferences about the world based on their clustered categorization. This was found for estimating the likelihood that geographical location determines voting (Study 4), that political preference determines personal taste (Study 5), and that social relationships determine political preference (Study 6). The effect is amplified if political ideology is salient (Study 7) and remains after controlling for differences in political sophistication (Study 8). The political domain appears simpler to the politically extreme than to political moderates."
 
 # Summary. An optional shortened abstract.
 summary = ""
