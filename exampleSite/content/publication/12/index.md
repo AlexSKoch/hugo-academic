@@ -1,5 +1,5 @@
 +++
-title = "The ""common good"" phenomenon: Why similarities are positive and differences are negative"
+title = "The common good phenomenon: Why similarities are positive and differences are negative"
 date = "2017-04-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
