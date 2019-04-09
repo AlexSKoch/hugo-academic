@@ -1,6 +1,6 @@
 +++
 title = "A cognitive-ecological explanation of intergroup biases"
-date = "2018-02-01T00:00:00"
+date = "2018-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Alves, H., Koch, A., & Unkelbach, C."]
